@@ -1,16 +1,29 @@
-## Hi there 👋
+ Aspirante a desenvolvedor
 
-<!--
-**felinto77/felinto77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Conhecimentos em:
 
-Here are some ideas to get you started:
+🌐 Frontend
+HTML5 / CSS3 / JavaScript / React / Expo /
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥 Backend
+Java / MySQL / Python
+
+💻 IDEs/Editors
+IntelliJ IDEA / Visual Studio Code / JetBrains Pycharm
+
+🛠 Metodologias:
+SCRUM / KAMBAM
+
+📫 Meus contatos:
+
+Gmail:
+
+-thiagofelintocd@gmail.com
+
+Instagram:
+
+-https://www.instagram.com/fel.thiago_
+
+LinkedIn:
+
+-https://www.linkedin.com/in/thiago-felinto-819ba7201/
