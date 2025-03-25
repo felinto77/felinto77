@@ -3,7 +3,7 @@
 Conhecimentos em:
 
 🌐 Frontend
-HTML5 / CSS3 / JavaScript / React / Expo /
+HTML5 / CSS3 / JavaScript / React / Expo 
 
 🖥 Backend
 Java / MySQL / Python
