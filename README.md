@@ -1,4 +1,4 @@
- Aspirante a desenvolvedor
+ Cursando Sistema de Informção 
 
 Conhecimentos em:
 
