@@ -37,7 +37,12 @@
 
 -----------------------------------------------------------------------------------------------------------
 
-[![AppVendasCompleto](https://github-readme-stats.vercel.app/api/pin/?username=felinto77&repo=AppVendasCompleto&theme=dracula)](https://github.com/felinto77/AppVendasCompleto)
+## 🚀 **Projetos em Destaque**  
+
+[![AppVendasCompleto](https://github-readme-stats.vercel.app/api/pin/?username=felinto77&repo=AppVendasCompleto&theme=dracula)](https://github.com/felinto77/AppVendasCompleto)  
+**Tecnologias:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
 -----------------------------------------------------------------------------------------------------------
 
