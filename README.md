@@ -37,6 +37,10 @@
 
 -----------------------------------------------------------------------------------------------------------
 
+⭐ **Se gostou do meu perfil, dê uma olhada nos meus repositórios!**  
+
+-----------------------------------------------------------------------------------------------------------
+
 ## 🚀 **Projetos em Destaque**  
 
 [![AppVendasCompleto](https://github-readme-stats.vercel.app/api/pin/?username=felinto77&repo=AppVendasCompleto&theme=dracula)](https://github.com/felinto77/AppVendasCompleto)  
@@ -50,5 +54,3 @@
 ![Artisan](https://img.shields.io/badge/-Artisan-FF2D20?logo=laravel&logoColor=white)
 
 -----------------------------------------------------------------------------------------------------------
-
-⭐ **Se gostou do meu perfil, dê uma olhada nos meus repositórios!**  
