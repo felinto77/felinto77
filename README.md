@@ -33,7 +33,7 @@
 
 📧 **Email:** [thiagofelintocd@gmail.com](mailto:thiagofelintocd@gmail.com)  
 📸 **Instagram:** [@fel.thiago_](https://www.instagram.com/fel.thiago_)  
-💼 **LinkedIn:** [Thiago Felinto](https://www.linkedin.com/in/thiago-felinto-819ba7201/)  
+💼 **LinkedIn:** [Thiago Felinto](https://www.linkedin.com/in/thiagofelinto/)  
 
 -----------------------------------------------------------------------------------------------------------
 
