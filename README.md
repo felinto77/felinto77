@@ -43,6 +43,11 @@
 **Tecnologias:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Blade](https://img.shields.io/badge/-Blade-FF2D20?logo=laravel&logoColor=white)
+![Eloquent](https://img.shields.io/badge/-Eloquent-FF2D20?logo=laravel&logoColor=white)
+![Artisan](https://img.shields.io/badge/-Artisan-FF2D20?logo=laravel&logoColor=white)
 
 -----------------------------------------------------------------------------------------------------------
 
