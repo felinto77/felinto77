@@ -35,6 +35,10 @@
 📸 **Instagram:** [@fel.thiago_](https://www.instagram.com/fel.thiago_)  
 💼 **LinkedIn:** [Thiago Felinto](https://www.linkedin.com/in/thiago-felinto-819ba7201/)  
 
----
+-----------------------------------------------------------------------------------------------------------
+
+[![AppVendasCompleto](https://github-readme-stats.vercel.app/api/pin/?username=felinto77&repo=AppVendasCompleto&theme=dracula)](https://github.com/felinto77/AppVendasCompleto)
+
+-----------------------------------------------------------------------------------------------------------
 
 ⭐ **Se gostou do meu perfil, dê uma olhada nos meus repositórios!**  
