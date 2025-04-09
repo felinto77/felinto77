@@ -2,7 +2,6 @@
 🎓 Cursando Sistemas de Informação  
 🌎 **EN** / **PT-BR**  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felinto77&show_icons=true&theme=dracula&hide_border=true)](https://github.com/felinto77)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felinto77&layout=compact&theme=dracula&hide_border=true)](https://github.com/felinto77)
 
 ## 🛠️ **Tecnologias e Ferramentas**  
