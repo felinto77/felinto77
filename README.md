@@ -1,18 +1,20 @@
  Cursando Sistema de Informção 
 
+ ENGLISH / PORTUGUÊS 
+
 Conhecimentos em:
 
-🌐 Frontend
-HTML5 / CSS3 / JavaScript / React / Expo 
+🌐 Frontend:
+HTML5 / CSS3 / JavaScript / Typescript / React / Expo / 
 
-🖥 Backend
-Java / MySQL / Python
+🖥 Backend:
+Java / MySQL / Python / PHP /
 
-💻 IDEs/Editors
-IntelliJ IDEA / Visual Studio Code / JetBrains Pycharm
+💻 IDEs/Editors:
+IntelliJ IDEA / Visual Studio Code / JetBrains Pycharm /
 
 🛠 Metodologias:
-SCRUM / KAMBAM
+SCRUM / KAMBAM /
 
 📫 Meus contatos:
 
